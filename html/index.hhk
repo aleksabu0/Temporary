@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a0c554d8d21eb4c173c7986d503d36bf4"><param name="Name" value="letter_bit_repr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a0c554d8d21eb4c173c7986d503d36bf4"><param name="Name" value="letter_bit_repr"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a2977587e0985395113ea5af2156547cc"><param name="Name" value="morse_letters"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a70a7e51f5d63e6c4f010ee698a65e4d9"><param name="Name" value="main.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a2977587e0985395113ea5af2156547cc"><param name="Name" value="morse_letters"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a70a7e51f5d63e6c4f010ee698a65e4d9"><param name="Name" value="word"></OBJECT>
+</UL>
+</BODY>
+</HTML>
